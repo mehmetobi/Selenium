@@ -4,14 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4866a29d-2bbb-47db-8bb6-66e3335d4f10" name="Changes" comment="" />
+    <list default="true" id="4866a29d-2bbb-47db-8bb6-66e3335d4f10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Weeks/Week01/Sel_Introduction/Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weeks/Week01/Sel_Introduction/firefox_driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weeks/Week01/Sel_Introduction/sel_introduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weeks/Week01/selenium_test/SeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weeks/Week03/Exercises/DynamicDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weeks/Week03/Exercises/Locators_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weeks/Week03/Exercises/Locators_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weeks/Week03/Exercises/StaticDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weeks/Week03/Exercises/UpdatedDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weeks/Week03/Exercises/WindowActivities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sel_Introduction/sel_introduction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/selenium_test/SeleniumTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -21,7 +46,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2J9EANH7R3nI82OHjGuJFjTTjI5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,9 +56,98 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/ubuntu/temp/Selenium-Project",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.DynamicDropdown">
+    <configuration name="DynamicDropdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Weeks.Week03.Exercises.DynamicDropdown" />
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Weeks.Week03.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Locators_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Weeks.Week03.Exercises.Locators_03" />
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Weeks.Week03.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticDropdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Weeks.Week03.Exercises.StaticDropdown" />
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Weeks.Week03.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdatedDropdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Weeks.Week03.Exercises.UpdatedDropdown" />
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Weeks.Week03.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowActivities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Weeks.Week03.Exercises.WindowActivities" />
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Weeks.Week03.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DynamicDropdown" />
+      <item itemvalue="Application.Locators_03" />
+      <item itemvalue="Application.StaticDropdown" />
+      <item itemvalue="Application.UpdatedDropdown" />
+      <item itemvalue="Application.WindowActivities" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DynamicDropdown" />
+        <item itemvalue="Application.UpdatedDropdown" />
+        <item itemvalue="Application.StaticDropdown" />
+        <item itemvalue="Application.WindowActivities" />
+        <item itemvalue="Application.Locators_03" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,5 +158,16 @@
       <updated>1671481756268</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
